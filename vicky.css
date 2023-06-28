@@ -1,0 +1,48 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    background-image: url(/image.png);
+    width: 100vw;
+    min-height: 100vh;
+    background-size: 100% 100%;
+    color: white;
+}
+
+.child {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+}
+
+.nks {
+    margin-right: 10px;
+}
+
+.bag {
+    margin-right: 10px;
+}
+.back{}
+.vicky {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.bhai {
+    font-size: 72px;
+    margin-top: -150px;
+    font-weight: 400;
+    max-width: 800px;
+}
+.bat{
+    width:100%;
+    max-width:200px;
+    color:yellow;
+    margin-top:50px;
+    padding-left:200px ;
+}
